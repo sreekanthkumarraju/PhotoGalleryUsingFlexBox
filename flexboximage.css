@@ -1,0 +1,16 @@
+.container{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    flex-basis:500px;
+    justify-content: flex-start;
+}
+
+.container>img{
+    flex-basis: 500px;
+}
+.container.nth-child(3)
+{
+    
+}
